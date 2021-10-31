@@ -17,7 +17,12 @@ Adding fonctions no natively existant in C standard library to write less code a
       - params : <br>
           - pointers
           - NULL (last arg)
-
+  - **[Switch]()**<br>
+      function simulating the langage R switch           
+      - params : <br>
+          - value to test
+          - variables args (cases)
+          - **last argument must be "default=[the default value]"**
 ## Auteur
 
 > Created by **[Honorable Con](https://github.com/honorableCon)**, M.E.R.N Stack developer
